@@ -1,0 +1,21 @@
+{
+  "name": "COLUSU",
+  "symbol": "CLU",
+  "description": "Colusu is the premier optimized utility and native governance token for the Colusu ecosystem on Solana.",
+  "image": "https://raw.githubusercontent.com/404verse/assets/main/colusu_logo.png",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "Token-2022"
+    }
+  ],
+  "extensions": {
+    "website": "https://colusu.io",
+    "twitter": "https://twitter.com/colusu_ecosystem",
+    "telegram": "https://t.me/colusu_portal"
+  }
+}
